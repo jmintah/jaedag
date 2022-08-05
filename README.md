@@ -184,6 +184,6 @@ Here are some ideas to get you started:
   
 </p>
 
-[![John-Dag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jaedag)
+<!-- [![John-Dag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jaedag)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedag&layout=compact&count_private=true&theme=github-dark)](https://github.com/jaedag)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedag&layout=compact&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
