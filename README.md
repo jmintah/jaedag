@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   /></a>
 </p>
 
+<a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
