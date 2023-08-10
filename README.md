@@ -3,7 +3,7 @@
 - 🔭 working on projects with Neo4j and [GRANDstack](https://grandstack.io) 
 - 🌱 currently learning Flutter
 - 👯 looking to collaborate on open source projects with JavaScript and TypeScript
-- ⚡ Fun fact: I play the keyboard and guitar
+- ⚡ Fun fact: I play guitars and keyboards
 
 <!--
 **jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
