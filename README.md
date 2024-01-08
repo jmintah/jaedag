@@ -1,8 +1,8 @@
 ### Hi 👋🏾, I'm John-Dag
 
-- 🔭 working on projects with Neo4j and [GRANDstack](https://grandstack.io) 
+- 🔭 working on projects with Neo4j and [GRANDstack](https://grandstack.io)
 - 🌱 currently learning Flutter
-- 👯 looking to collaborate on open source projects with JavaScript and TypeScript
+- 👯 looking to collaborate on projects with AI
 - ⚡ Fun fact: I play guitars and keyboards
 
 <!--
@@ -10,13 +10,11 @@
 
 Here are some ideas to get you started:
 
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
 
 <h3 align="left">Get In Touch:</h3>
 
@@ -56,8 +54,6 @@ Here are some ideas to get you started:
   
   <a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-
-
 
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
@@ -196,7 +192,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
 <h4>Mobile Dev Technologies</h4>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -208,7 +203,6 @@ Here are some ideas to get you started:
     />
   </a>
  </p>
-
 
 <!-- [![John-Dag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
 
